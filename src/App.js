@@ -4,7 +4,6 @@ import ShoppingCart from './Components/ShoppingCart';
 import './App.css';
 import Checkout from './Components/Checkout';
 import Info from './Components/Info';
-// import * as api from './services/api';
 
 class App extends React.Component {
   constructor() {
